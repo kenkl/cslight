@@ -9,5 +9,5 @@ CSLight is my kitchen coffee-station worklight. That part of the kitchen is a li
 
 2121-05-02: 
 
-- Fiddling around with the colour-temperature.
+- Fiddling around with the colour-temperature. I can see I'm going to have to implement a way to change this on the fly; reflashing this thing every time I want to try a new combination is... not ideal.
 - First commit to GitHub. 
